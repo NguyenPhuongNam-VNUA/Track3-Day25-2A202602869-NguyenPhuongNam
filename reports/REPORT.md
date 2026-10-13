@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Nguyễn Phương Nam - MSV: 2A202602869  **Commit:** 3ef834703d4f646b3791bfb64863c4c79a259dc9  **Điểm tự động (`make grade`):** 84.0 / 88 (+ 4đ dataset ẩn = 88.0 / 88)
+**Họ tên / nhóm:** Nguyễn Phương Nam - MSV: 2A202602869  **Commit:** 76f9422a6ca59e42be8039ceb98a05b73cd9c850  **Điểm tự động (`make grade`):** 84.0 / 88 (+ 4đ dataset ẩn = 88.0 / 88)
 
 > Mọi nhận định phải có số. Dán số từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`.
 
